@@ -1,6 +1,6 @@
 ## Node.js+Mongoose的RestfulApi的用户token权限验证
 
-# 非原创：抄袭 [文章地址](https://cnodejs.org/topic/58c1477b06dbd608756d0bca)，我感觉我修改的更容易理解，删除了passport模块，感觉没必要，修复了一些细节错误，另外作者本身对jwt理解有一些偏差。 不过还是一篇不错的入门文章。
+# 非原创： 原文[文章地址](https://cnodejs.org/topic/58c1477b06dbd608756d0bca)，我感觉我修改的更容易理解，删除了passport模块，感觉没必要，修复了一些细节错误，另外作者本身对jwt理解有一些偏差。 不过还是一篇不错的入门文章。
 
 
 具体数据库配置信息在config.js中设置,不开启数据库是会崩溃的。
